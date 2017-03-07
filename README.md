@@ -1,3 +1,6 @@
+# Hopkins Underground
+This is a fork of the authorize.net SDK. We publish this artifact to our own S3 maven repo. The fork allows us to build from source and bugfix if necessary. This library is not published to public maven repos.
+
 Authorize.Net Java SDK
 ======================
 [![Travis](https://img.shields.io/travis/AuthorizeNet/sdk-java/master.svg)]
